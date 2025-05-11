@@ -32,7 +32,7 @@ const ContactPage = () => {
             </p>
             
             <div className="space-y-4">
-              <a href="mailto:youremail@example.com" className="flex items-center gap-3 text-text-secondary hover:text-accent-cyan transition-colors">
+              <a href="mailto:natyyo2580@gmail.com" className="flex items-center gap-3 text-text-secondary hover:text-accent-cyan transition-colors">
                 <FaEnvelope className="text-accent-blue text-xl" />
                 <span>natyyo2580@gmail.com</span>
               </a>
